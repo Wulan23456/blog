@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Wulan Website"
 theme: "./.."
 relativeURLs: true
 
@@ -31,9 +31,9 @@ params:
   # home
   disable_home: false
   profile_image: "/images/profile.png"
-  name: "Example name"
+  name: "wulan asih"
   namecolor: ffc107
-  profession: "Profession"
+  profession: "Pelajar"
   github: "https://github.com"
   linkedin: "https://linkedin.com"
   twitter: "https://twitter.com/"
@@ -45,13 +45,13 @@ params:
   descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
-    - name: CSS
+    - name: pkk
       percentage: 90
-    - name: Django
+    - name: ddg
       percentage: 85
-    - name: Hugo
+    - name: tpav
       percentage: 80
-    - name: React JS
+    - name: mtk
       percentage: 70
 
   # Experience
@@ -85,13 +85,13 @@ params:
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
-      startedyear: "2013"
-      graduation: "2018"
-    - degree: "Degree"
-      branch: "Branch"
+    - degree: "SD"
+      branch:
+      university: "SDN 05 PASIRIAN"
+      startedyear: "2005
+      graduation: "2016"
+    - degree: "SMPN 03 PASIRIAN"
+      branch: "2016"
       university: "Example university"
       startedyear: "year"
       graduation: "year"
