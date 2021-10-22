@@ -90,16 +90,16 @@ params:
       university: "SDN 05 PASIRIAN"
       startedyear: "2005
       graduation: "2016"
-    - degree: "SMPN 03 PASIRIAN"
-      branch: "2016"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
-    - degree: "Degree"
-      branch: "Branch"
-      university: "Example university"
-      startedyear: "year"
-      graduation: "year"
+    - degree: "SMPN"
+      branch: 
+      university: "SMPN 03 PASIRIAN"
+      startedyear: "2016""
+      graduation: "2019"
+    - degree: "SOON"
+      branch: 
+      university: "SMKN 01 PASIRIAN"
+      startedyear: "2019"
+      graduation: "2021"
 
   # Projects
   disable_projects: false
