@@ -21,7 +21,7 @@ params:
   version: 3
 
   favicon: "/images/fav.png"
-  description: "A high performance hugo theme for personal portfolio and blog."
+  description: " high performance hugo theme for personal portfolio and blog."
 
   # Navbar Menus
   customMenus:
